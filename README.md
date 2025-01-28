@@ -60,9 +60,6 @@ InstantVideo offers several benefits over other text-to-video generation tools:
 - **User-Friendly Interface:** The platform provides an intuitive interface, simplifying the video generation process for users of all technical levels.
 - **Customization:** Offers various base models and motion settings, allowing for tailored video outputs based on user preferences.
 
-## Acknowledgments
-
-Special thanks to [KingNish](https://huggingface.co/KingNish) for developing the [InstantVideo](https://huggingface.co/spaces/KingNish/Instant-Video) library, which made this project possible.
 
 ---
 
