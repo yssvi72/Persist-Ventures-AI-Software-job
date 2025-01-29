@@ -49,8 +49,8 @@ To enhance the generated videos, I incorporated background music:
 
 The following videos were produced as the final output of this project:
 
-- **bestop.mp4:** [Link to bestop.mp4](path_to_bestop.mp4)
-- **finals2.mp4:** [Link to finals2.mp4](path_to_finals2.mp4)
+- **bestop.mp4:** [Link to bestop.mp4](bestop.mp4)
+- **finals2.mp4:** [Link to finals2.mp4](finals2.mp4)
 
 ## Advantages of InstantVideo
 
