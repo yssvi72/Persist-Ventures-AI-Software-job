@@ -36,13 +36,13 @@ The objective of this assignment was to generate AI-based videos from textual de
 1. **Text Prompt Submission:** Input descriptive text into the InstantVideo interface.
 2. **Model Selection:** Choose the desired base model and motion settings within InstantVideo.
 3. **Video Generation:** The library processes the text to produce a corresponding video.
-4. **Audio Integration:** Download suitable background music from [Sound of Memes](https://soundofmemes.com) and merge it with the video using FFMPEG.
+4. **Audio Integration:** Download suitable background music from [Sound of Memes](https://soundofmeme.com/) and merge it with the video using FFMPEG.
 
 ## Audio Integration
 
 To enhance the generated videos, I incorporated background music:
 
-1. **Music Selection:** Chose appropriate tracks from [Sound of Memes](https://soundofmemes.com).
+1. **Music Selection:** Chose appropriate tracks from [Sound of Memes](https://soundofmeme.com/).
 2. **FFMPEG Utilization:** Employed the FFMPEG library to merge the selected audio with the generated video, ensuring synchronization and desired audio levels.
 
 ## Final Videos
