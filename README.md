@@ -3,7 +3,7 @@
 
 This project demonstrates the process of generating AI-driven videos from textual prompts using the [InstantVideo](https://huggingface.co/spaces/KingNish/Instant-Video) library developed by [KingNish](https://huggingface.co/KingNish) on Hugging Face. A notable advantage of this tool is the ability to create multiple videos without depleting credits.
 
-![InstantVideo Interface](path_to_your_image.png)
+![InstantVideo Interface](working.png)
 
 ## Table of Contents
 
